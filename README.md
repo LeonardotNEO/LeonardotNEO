@@ -1,6 +1,6 @@
 Currently studying software engineering at NTNU in Trondheim.
 
-<h3>Stack:</h3>
+<h3>Skill set:</h3>
 <table>
   <tr>
     <td>
@@ -36,23 +36,6 @@ Currently studying software engineering at NTNU in Trondheim.
     </td>
   </tr>
 </table>
-
-
-<h3>Other technologies im interested in learning more about:</h3>
-<table>
-<tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height=40> Typescript
-    </td>
-    <td>
-      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" height=40> React
-    </td>
-    <td>
-      <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height=40> AWS
-    </td>
-  </tr>
-  </table>
-
 
 
 <!---
