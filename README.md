@@ -38,7 +38,7 @@ Currently studying software engineering at NTNU in Trondheim.
 </table>
 
 
-<h3>Other technologies im interested in:</h3>
+<h3>Other technologies im interested in learning more about:</h3>
 <table>
 <tr>
     <td>
