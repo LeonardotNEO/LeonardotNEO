@@ -24,7 +24,7 @@ Currently studying software engineering at NTNU in Trondheim.
       <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" height=40> Photoshop
     </td>
     <td>
-      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/05/autodesk-maya-logo.png" height=40> Autodesk Maya
+      <img src="https://1000logos.net/wp-content/uploads/2020/08/Maya-Logo.png" height=40> Autodesk Maya
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height=40> NodeJs
@@ -38,7 +38,6 @@ Currently studying software engineering at NTNU in Trondheim.
        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height=40> Vue
     </td>
     <td>
-      
       <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height=40> Vue Spring Boot
     </td>
     <td>
@@ -47,9 +46,8 @@ Currently studying software engineering at NTNU in Trondheim.
   </tr>
   <tr>
     <td>
-     Javascript
+     <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height=40>  Javascript
     </td>
-
   </tr>
 </table>
 
