@@ -35,14 +35,20 @@ Currently studying software engineering at NTNU in Trondheim.
       <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height=40> Firebase
     </td>
     <td>
-      <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height=40> Vue
+       Vue
     </td>
     <td>
-      <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height=40> Spring Boot
+      Spring Boot
     </td>
     <td>
-      <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" height=40> MYSQL
+     MYSQL
     </td>
+  </tr>
+  <tr>
+    <td>
+     Javascript
+    </td>
+
   </tr>
 </table>
 
