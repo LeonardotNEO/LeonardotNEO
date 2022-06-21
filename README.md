@@ -38,7 +38,7 @@ Currently studying software engineering at NTNU in Trondheim.
        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height=40> Vue
     </td>
     <td>
-      <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height=40> Vue Spring Boot
+      <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height=40>Spring Boot
     </td>
     <td>
       <img src="https://logo-download.com/wp-content/data/images/svg/MySQL-logo.svg" height=40> MYSQL
