@@ -1,4 +1,4 @@
-Currently studying software engineering at NTNU in Trondheim.
+Currently studying computer science at NTNU in Trondheim.
 
 <h3>Skill set:</h3>
 <table>
