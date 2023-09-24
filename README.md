@@ -1,5 +1,3 @@
-Currently studying computer science at NTNU in Trondheim.
-
 <h3>Skill set:</h3>
 <table>
   <tr>
